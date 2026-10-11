@@ -1,17 +1,17 @@
 payload:
   #零散规则
-
-  DOMAIN-KEYWORD,office.com
-  DOMAIN-KEYWORD,herotbag
-  DOMAIN-KEYWORD,guangya
+ - DOMAIN-KEYWORD,lyezi.xyz
+ - DOMAIN-KEYWORD,office.com
+ - DOMAIN-KEYWORD,herotbag
+ - DOMAIN-KEYWORD,guangya
   # Apple
-  DOMAIN-SUFFIX,apple.com
-  DOMAIN-SUFFIX,icloud.com
-  DOMAIN-SUFFIX,apple-cloudkit.com
+ - DOMAIN-SUFFIX,apple.com
+ - DOMAIN-SUFFIX,icloud.com
+ - DOMAIN-SUFFIX,apple-cloudkit.com
 
   # Microsoft 与微软商店
-  DOMAIN-SUFFIX,microsoft.com
-  DOMAIN-SUFFIX,microsoftstore.com
-  DOMAIN-SUFFIX,windows.com
-  DOMAIN-SUFFIX,mp.microsoft.com
-  DOMAIN-SUFFIX,windowsupdate.com
+ - DOMAIN-SUFFIX,microsoft.com
+ - DOMAIN-SUFFIX,microsoftstore.com
+ - DOMAIN-SUFFIX,windows.com
+ - DOMAIN-SUFFIX,mp.microsoft.com
+ - DOMAIN-SUFFIX,windowsupdate.com

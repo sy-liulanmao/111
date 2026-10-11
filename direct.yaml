@@ -5,13 +5,13 @@ payload:
   - DOMAIN-KEYWORD,herotbag
   - DOMAIN-KEYWORD,guangya
   # Apple
-  - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-KEYWORD,apple
+  - DOMAIN-KEYWORD,icloud
+  - DOMAIN-KEYWORD,apple-cloudkit
 
   # Microsoft 与微软商店
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,microsoftstore.com
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,mp.microsoft.com
-  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,microsoftstore
+  - DOMAIN-KEYWORD,windows
+  - DOMAIN-KEYWORD,mp.microsoft
+  - DOMAIN-KEYWORD,windowsupdate

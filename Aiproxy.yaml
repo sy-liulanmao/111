@@ -1,7 +1,7 @@
 payload:
   #ai规则集
- - DOMAIN-KEYWORD,openai
- - DOMAIN-KEYWORD,chatgpt
- - DOMAIN-KEYWORD,gemini
- - DOMAIN-KEYWORD,googleai
- - DOMAIN-KEYWORD,claude
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-KEYWORD,gemini
+  - DOMAIN-KEYWORD,googleai
+  - DOMAIN-KEYWORD,claude

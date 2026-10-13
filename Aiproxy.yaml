@@ -17,7 +17,6 @@ payload:
   - DOMAIN-SUFFIX,algolia.net
   - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,events.statsigapi.net
@@ -30,7 +29,6 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,observeit.net
-  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaicom.imgix.net
   - DOMAIN-SUFFIX,segment.io
@@ -39,4 +37,3 @@ payload:
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN,cdn.usefathom.com
   - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claude.ai

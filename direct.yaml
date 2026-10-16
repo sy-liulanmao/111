@@ -1,5 +1,6 @@
 payload:
   #零散规则
+  - DOMAIN-KEYWORD,wybcs.work
   - DOMAIN-KEYWORD,lyezi.xyz
   - DOMAIN-KEYWORD,office.com
   - DOMAIN-KEYWORD,herotbag
